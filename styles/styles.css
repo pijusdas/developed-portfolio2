@@ -1,0 +1,261 @@
+/* header sec */
+.primary-btn {
+    color: #FFFFFF;
+    height: 64px;
+    border-radius: 5px;
+    background: #FF5959;
+    padding: 18px 35px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.header-sub-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+}
+
+.header-sec{
+    background: url('../images/donation11.jpg');
+    
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+}
+
+.header-description {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* setion donate now */
+.sec1 {
+    align-items: center;
+}
+
+.sec-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.sec-desc {
+    text-align: center;
+}
+
+.parent {
+
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.sub-pr {
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+}
+
+
+.child {
+    display: inline-block;
+    border: 0 0 12 px;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+/* button align center */
+.sec1-btn {
+    text-align: center;
+
+}
+
+/* donate plane section */
+.pln-title {
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+
+.pln-desc {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: #707070;
+}
+
+.our-donate-sec {
+    display: flex;
+    gap: 24px;
+}
+
+.donate-titile {
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.donate-desc {
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+}
+
+/* box shadow */
+.donate-plane {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.donate-plane2 {
+    background: rgba(225, 105, 105, 0.1);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.donate-plane3 {
+    background: #FFF4D6;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+
+/* donate section 3 */
+.donate-sec3 {
+    display: flex;
+    margin-top: 120px;
+   
+}
+
+/* titile styles */
+.your-d-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.your-d-desc {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+/* button styles */
+.donate-btn {
+    color: #FFFFFF;
+    background: #FF5959;
+    border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    font-weight: 600;
+    
+}
+.donate-sec4{
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-between;
+    width: 1300px;
+    height: 500px;
+    margin: auto;
+    margin-top: 300px;
+}
+.d-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.d-desc{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+.survive-img{
+    left: 150px;
+    right: 150px;
+}
+
+    /* section area five start  */
+    .section-five{
+        margin-top: 200px;
+        text-align: center;
+    }
+    .five-title{
+        font-size: 70px;
+    }
+    .five-description{
+        font-size: 25px;
+        color: #a0a0a0;
+        padding: 50px 0px;
+    }
+        /* section area five end  */
+    
+        /* section area six start  */
+    .email-section{
+        width: 1300px;
+        height: 150px;
+        margin: auto;
+        border-radius: 10px;
+        background-color: antiquewhite;
+    }
+    input{
+        align-items: center;
+        margin-top: 56px;
+        width: 500px;
+        height: 45px;
+        padding: 2px;
+        padding-left: 20px;
+        font-size: 20px;
+        background-color: #b8b8b8;
+        border: none;
+        color: #a0a0a0;
+    }
+    .subscribe{
+        margin-top: 15px;
+        font-size: 20px;
+        width: 150px;
+        padding: 13px;
+        margin-right: 10px;
+        background-color: #FF5959;
+        border: none;
+    }
+        /* section area five end  */
+    
+        /* section area six start  */
+    .section-six{
+        width: 100%;
+        height: 250px;
+        background-color: #050408;
+    }
+    .be-humble{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .humble{
+        padding-top: 90px;
+        font-size: 40px;
+        font-style: italic;
+        color: red;
+    }
+    .gonna{
+        padding: 25px;
+        color: aquamarine;
+        font-weight: 300;
+        font-size: 20px;
+    }
+        /* section area six end  */
